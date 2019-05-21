@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="argentum-web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>argentum-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="argentum-web.war">
+      <element id="artifact" artifact-name="argentum-web:war exploded" />
+    </root>
+  </artifact>
+</component>
