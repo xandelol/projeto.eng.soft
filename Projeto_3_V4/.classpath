@@ -8,6 +8,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
-	<classpathentry kind="lib" path="E:/Downloads/Projeto - Basquete/Projeto - Basquete/mockito-all.jar"/>
+	<classpathentry kind="lib" path="C:/git_xandao/projeto.eng.soft/Projeto_3_V4/mockito-all.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
